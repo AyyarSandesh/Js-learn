@@ -1,0 +1,11 @@
+#box{
+    width: 200px;
+    height: 250px;
+    background-color: greenyellow;
+}
+.para{
+    background-color: red;
+}
+.newClass{
+    color:blue;
+}
